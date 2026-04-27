@@ -13,7 +13,7 @@ cls
 echo =========================================
 echo        OGDev PC Optimizer (OLD)
 echo =========================================
-echo  This version is outdated.
+echo  This version is outdated.(tbh ts was ai n ion like it)
 echo  Please download the new update.
 echo =========================================
 echo.
