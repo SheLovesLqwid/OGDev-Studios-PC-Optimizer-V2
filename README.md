@@ -12,7 +12,7 @@ OGDev Studios PC Optimizer is an advanced configuration utility designed to enha
 
 ## Key Features
 
-Find the latest release of OGDev Studios PC Optimizer on the [Releases](https://github.com/SheLovesLqwid/OGDev-Studios-PC-Optimizer/releases) page.
+Find the latest release of OGDev Studios PC Optimizer on the [Releases](https://github.com/SheLovesLqwid/OGDev-Studios-PC-Optimizer/releases/tag/V16.6) page.
 
 ## Screenshots
 
