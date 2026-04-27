@@ -4,7 +4,7 @@
 
 ![OGDev Studios PC Optimizer](https://raw.githubusercontent.com/SheLovesLqwid/OGDev-Studios-PC-Optimizer/main/banner.png)
 
-[![Download](https://raw.githubusercontent.com/SheLovesLqwid/OGDev-Studios-PC-Optimizer/main/download-button.png)](https://github.com/SheLovesLqwid/OGDev-Studios-PC-Optimizer/releases)
+[![Download](https://raw.githubusercontent.com/SheLovesLqwid/OGDev-Studios-PC-Optimizer/main/download-button.png)](https://github.com/SheLovesLqwid/OGDev-Studios-PC-Optimizer/releases/tag/V16.6)
 
 ## Overview
 
